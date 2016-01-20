@@ -45,7 +45,17 @@ CITY STATE STEP
   _______________Finishing States________________
 
   Now finish states. All states that haven't reached max take turns absorbing untaken adjacent
-  tracts. Finish when hitting limiting max or enclosed.
+  tracts. State array finish when hitting limiting max or enclosed.
+
+
+________________Interactivity____________________
+
+      *********While Building**********
+      1) Set delay between rounds of growth, allowing user to watch progression, slow, pause, or quicken selection or even halt growth/force finish a state.
+
+      *********Finished Product*********
+      2) Will summarize state using census api (demographics, likely voting patterns, geographical features, estimated number of congressman, gdp etc)
+
 
 
 
